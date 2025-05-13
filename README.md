@@ -1,5 +1,5 @@
 ## Hi there 👋
-I'm George, a cloud computing engineer trainee who is interested in python and cloud(AWS & Azure) 
+I'm George, a cloud computing engineer trainee who is interested and working on python and cloud(AWS & Azure) 
 - 🔭 I’m currently working on Azure networking.
 - 🌱 I’m currently learning AWS & Azure Cloud.
 - 👯 I’m looking to collaborate on any topics on cloud projects.
